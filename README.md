@@ -1,4 +1,4 @@
-# Queue Management System
+# The Queue Management System (QueneEase)
 
 A model project by **Jeevan A Jacob**. 
 
