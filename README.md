@@ -77,4 +77,4 @@ queue-management-system
 └── README.md            # You are here
 ```
 
-Created with ❤️ by **Jeevan A Jacob**.
+Created by **Jeevan A Jacob**.
